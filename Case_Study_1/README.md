@@ -1,11 +1,11 @@
-#GREEN HOUSE MONITORING AND CONTROL
+GREEN HOUSE MONITORING AND CONTROL
 
 * The objective of this Case Study is to design a simple, easy to install, microcontroller-based circuit to monitor and record the values of temperature, humidity, soil moisture and sunlight of the natural environment that are continuously modified and controlled in order optimize them to achieve maximum plant growth and yield. 
 
 
 * It communicates with the various sensor modules in real-time in order to control the light, aeration and drainage process efficiently inside a greenhouse by actuating a cooler, fogger, dripper and lights respectively according to the necessary condition of the crops. 
 
-##Advantages
+Advantages
 * Also, the use of easily available components reduces the manufacturing and maintenance costs. 
 
 * The design is quite flexible as the software can be changed any time.
@@ -15,20 +15,20 @@
 * This makes the proposed system to be an economical, portable and a low maintenance solution for greenhouse applications, especially in rural areas and for small scale agriculturists.
 
 
-##Parts of the System
-•	Sensors (Data acquisition system)
-o	Temperature sensor 
-o	Humidity sensor
-o	Light sensor (LDR)
-•	Analog to Digital Converter (ADC)
-•	Microcontroller (AT89C51)
-•	Liquid Crystal Display
-•	Actuators – Relays (Interface)
-•	Devices controlled
-o	Water Pump (simulated as a bulb)
-o	Sprayer (simulated as a bulb)
-o	Cooler (simulated as a fan)
-o	Artificial Lights (simulated as 2 bulbs)
+Parts of the System
+* Sensors (Data acquisition system)
+** Temperature sensor 
+** Humidity sensor
+** Light sensor (LDR)
+* Analog to Digital Converter (ADC)
+* Microcontroller (AT89C51)
+* Liquid Crystal Display
+* Actuators – Relays (Interface)
+* Devices controlled
+** Water Pump (simulated as a bulb)
+** Sprayer (simulated as a bulb)
+** Cooler (simulated as a fan)
+** Artificial Lights (simulated as 2 bulbs)
 
 ##Humidity & Temperature Sensor 
 •	humidity & temperature Sensor DHT11 module
