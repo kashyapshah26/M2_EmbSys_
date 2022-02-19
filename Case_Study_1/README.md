@@ -82,7 +82,7 @@ Relays
 
 Power Supply Connection
 
-*The power supply section consists of step-down transformers of 230V primary to 9V and 12V secondary voltages for the +5V and +12V power supplies respectively.
+* The power supply section consists of step-down transformers of 230V primary to 9V and 12V secondary voltages for the +5V and +12V power supplies respectively.
 
 
 
@@ -98,7 +98,7 @@ High Level Requirements
 
     * 	Hardware must always follow the selection of software, with the hardware required being supported by the software selected.
 
-##Low Level Requirements
+Low Level Requirements
 
 * Which type of strategy to follow
 * The project shall give the output very fast
