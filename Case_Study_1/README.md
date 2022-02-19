@@ -1,18 +1,18 @@
 #GREEN HOUSE MONITORING AND CONTROL
 
-•	The objective of this Case Study is to design a simple, easy to install, microcontroller-based circuit to monitor and record the values of temperature, humidity, soil moisture and sunlight of the natural environment that are continuously modified and controlled in order optimize them to achieve maximum plant growth and yield. 
+* The objective of this Case Study is to design a simple, easy to install, microcontroller-based circuit to monitor and record the values of temperature, humidity, soil moisture and sunlight of the natural environment that are continuously modified and controlled in order optimize them to achieve maximum plant growth and yield. 
 
 
-•	It communicates with the various sensor modules in real-time in order to control the light, aeration and drainage process efficiently inside a greenhouse by actuating a cooler, fogger, dripper and lights respectively according to the necessary condition of the crops. 
+* It communicates with the various sensor modules in real-time in order to control the light, aeration and drainage process efficiently inside a greenhouse by actuating a cooler, fogger, dripper and lights respectively according to the necessary condition of the crops. 
 
 ##Advantages
-•	Also, the use of easily available components reduces the manufacturing and maintenance costs. 
+* Also, the use of easily available components reduces the manufacturing and maintenance costs. 
 
-•	The design is quite flexible as the software can be changed any time.
+* The design is quite flexible as the software can be changed any time.
 
-•	It can thus be tailor-made to the specific requirements of the user. 
+* It can thus be tailor-made to the specific requirements of the user. 
 
-•	This makes the proposed system to be an economical, portable and a low maintenance solution for greenhouse applications, especially in rural areas and for small scale agriculturists.
+* This makes the proposed system to be an economical, portable and a low maintenance solution for greenhouse applications, especially in rural areas and for small scale agriculturists.
 
 
 ##Parts of the System
