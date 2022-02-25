@@ -29,25 +29,36 @@ Low Level Requirements
 
 SWOT Analysis
 
-Strength                                        Weakness
+Strength                                       
 
-* Easily avlable                                    * Installation
-* Easy to maintain                                  * Hard to find Components
+* Easily avlable                                    
+* Easy to maintain                                  
 * Low cost
 * Controlled Money Suplly
 
-Oppertunities                                   Threats
+ Weakness
 
-* less labour needed                                * lack of knowledge
-* we don't need to check multiple times             * Alternative
+* Installation
+* Hard to find Components
+
+
+Oppertunities                                   
+
+* less labour needed                               
+* we don't need to check multiple times            
 * less polution
 
+Threats
 
+ * lack of knowledge
+  * Alternative
+
+  
 Futur Planning
 
 * we can use different tyoe of senssor
-                                    * Soil sensor
-                                    * Soil ph sensor
-                                    * Wind or tide sensor
-                                    * Moisture sensor
+    * Soil sensor
+    * Soil ph sensor
+    * Wind or tide sensor
+    * Moisture sensor
 
