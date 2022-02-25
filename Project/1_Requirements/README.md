@@ -26,3 +26,28 @@ Low Level Requirements
 * The project shall give the output very fast
 
 * The control hardware should include factors such as reliability, support, previous experiences with the equipment (successes and failures), and cost
+
+SWOT Analysis
+
+Strength                                        Weakness
+
+* Easily avlable                                    * Installation
+* Easy to maintain                                  * Hard to find Components
+* Low cost
+* Controlled Money Suplly
+
+Oppertunities                                   Threats
+
+* less labour needed                                * lack of knowledge
+* we don't need to check multiple times             * Alternative
+* less polution
+
+
+Futur Planning
+
+* we can use different tyoe of senssor
+                                    * Soil sensor
+                                    * Soil ph sensor
+                                    * Wind or tide sensor
+                                    * Moisture sensor
+
