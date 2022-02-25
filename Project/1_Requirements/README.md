@@ -28,11 +28,6 @@ Low Level Requirements
 * The control hardware should include factors such as reliability, support, previous experiences with the equipment (successes and failures), and cost
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 SWOT Analysis
 
 Strength                                       
