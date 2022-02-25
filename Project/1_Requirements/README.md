@@ -55,7 +55,7 @@ Threats
   * Alternative
 
   
-Futur Planning
+Future Planning
 
 * we can use different tyoe of senssor
     * Soil sensor
