@@ -1,3 +1,5 @@
+All information are written in the docx file that is in the reppositary
+
 GREEN HOUSE MONITORING AND CONTROL
 
 * The objective of this Case Study is to design a simple, easy to install, microcontroller-based circuit to monitor and record the values of temperature, humidity, soil moisture and sunlight of the natural environment that are continuously modified and controlled in order optimize them to achieve maximum plant growth and yield. 
