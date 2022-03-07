@@ -15,6 +15,8 @@ The unit will monitor the conditions of various parameter considerations and tak
     If Light Intensity is lower than the set point: turn ON the bulb.
 
 
+
+
 SOIL MOISTURE SENSOR
 
     * Tolerance= ± 0.2 V
@@ -26,6 +28,7 @@ SOIL MOISTURE SENSOR
 | Soil is dry  | 0V  |
 | Optimum level of soil moisture  | 1.9- 3.5V  |
 | Slurry soil | >3.5V |
+
 
 
 LIGHT SENSOR
@@ -59,5 +62,21 @@ HUMIDITY SENSOR
 
 
 
+TEMPERATURE SENSOR
+
+    FORMULA:
+    Temperature (0C) = (Vout/5) *100 (0C /V)
+
+    TEMPERATURE SENSOR READINGS
+
+
+
+| Temperature range in degree Celsius | Temperature sensor output( Vout ) |
+| ------------- | ------------- |
+| 10 - 30  | 0.5V - 1.5V  |
+| 31 - 50 | 1.5V - 2.25V |
+| 51 - 70 | 2.5V - 3.5V |
+| 70 - 85 | 3.5V - 4.25V |
+| 85 - 100 | 4.25V - 5V |
 
 
