@@ -9,8 +9,8 @@ Algorithm for Greenhouse automation is as follows.
 7. If temperature > Set temperature then turn ON the Cooler(FAN)
 8. If temperature < Set temperature then turn ON the Heater
 9. Get feedback from Humidity sensor
-10. If humidity > Set humidity then turn ON the Humidifier
-11. If humidity < Set humidity then turn ON the Dehumidifier
+10. If humidity > Set humidity then turn ON the Sprayer
+11. If humidity < Set humidity then turn OFF the Sprayer
 12. Get feedback from LDR
 13. If light intensity < Set light intensity then turn ON the Bulb
 14. If light intensity > Set light intensity then turn OFF the Bulb
