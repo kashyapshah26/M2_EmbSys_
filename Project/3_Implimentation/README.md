@@ -1,4 +1,3 @@
-Code
 
 Algorithm for Greenhouse automation is as follows.
 1. Start
