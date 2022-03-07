@@ -13,3 +13,15 @@ The unit will monitor the conditions of various parameter considerations and tak
     If Light Intensity is higher than the set point: turn OFF the bulb.
 
     If Light Intensity is lower than the set point: turn ON the bulb.
+
+
+SOIL MOISTURE SENSOR
+    Tolerance= ± 0.2 V
+             TABLE 1
+    SOIL MOISTURE SENSOR READINGS
+
+| Soil Condition | Transducer Optimum Range |
+| ------------- | ------------- |
+| Soil is dry  | 0V  |
+| Optimum level of soil moisture  | 1.9- 3.5V  |
+| Slurry soil | >3.5V |
