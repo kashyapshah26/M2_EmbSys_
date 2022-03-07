@@ -26,3 +26,26 @@ SOIL MOISTURE SENSOR
 | Soil is dry  | 0V  |
 | Optimum level of soil moisture  | 1.9- 3.5V  |
 | Slurry soil | >3.5V |
+
+
+LIGHT SENSOR
+
+    Tolerance = ±0.1V
+
+    LIGHT SENSOR READINGS
+
+| Illumination Status | Transducer Optimum Range |
+| ------------- | ------------- |
+| OPTIMUM ILLUMINATION  | 0V-0.69V  |
+| DIM LIGHT  | 0.7V-2.5V  |
+| Dark | 2.5V- 3V |
+| NIGHT | 3V-3.47V |
+
+
+
+
+
+
+
+
+
