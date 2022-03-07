@@ -43,7 +43,19 @@ LIGHT SENSOR
 
 
 
+HUMIDITY SENSOR
 
+    Tolerance= ±0.1V
+
+    HUMIDITY SENSOR READINGS
+    
+    
+| Percentage RH (RELATIVE HUMIDITY) | Transducer Optimum Range |
+| ------------- | ------------- |
+| 0% - 40.5%  | 0V - 2.05V  |
+| 40.6% - 60.0% | 2.2V - 2.65V |
+| 61.0% - 80.2% | 2.7V - 3.275V |
+| 81.1%to 100% | 3.3V - 3.9V |
 
 
 
