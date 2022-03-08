@@ -3,6 +3,10 @@
 * Case Study and project for Embedded project
 
 
+[![Cppcheck](https://github.com/kashyapshah26/M2_EmbSys_/actions/workflows/static-check.yml/badge.svg)](https://github.com/kashyapshah26/M2_EmbSys_/actions/workflows/static-check.yml)
+
+
+
 # Codecy
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/3e387cdc35d3432991052d1175f5db88)](https://www.codacy.com/gh/kashyapshah26/M2_EmbSys_/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kashyapshah26/M2_EmbSys_&amp;utm_campaign=Badge_Grade)
