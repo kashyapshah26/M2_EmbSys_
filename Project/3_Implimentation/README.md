@@ -1,5 +1,6 @@
 
 Algorithm for Greenhouse automation is as follows.
+
 1. Start
 2. Initialize ADC.
 3. Initialize LCD.
@@ -19,3 +20,4 @@ Algorithm for Greenhouse automation is as follows.
 17. If data received = „L‟ then update set light intensity and go to „6‟
 18. Go to „6‟
 19. Stop.
+

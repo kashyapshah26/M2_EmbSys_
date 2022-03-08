@@ -14,6 +14,8 @@ Parts of the System
     * Cooler (simulated as a fan)
     * Artificial Lights (simulated as 2 bulbs)
 
+
+
 Humidity & Temperature Sensor 
 
 * humidity & temperature Sensor DHT11 module

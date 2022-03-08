@@ -18,7 +18,6 @@ The unit will monitor the conditions of various parameter considerations and tak
 
 
 
-
 LIGHT SENSOR
 
     Tolerance = ±0.1V
@@ -39,6 +38,7 @@ HUMIDITY SENSOR
     Tolerance= ±0.1V
 
     HUMIDITY SENSOR READINGS
+    
     
     
 | Percentage RH (RELATIVE HUMIDITY) | Transducer Optimum Range |
