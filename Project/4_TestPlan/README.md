@@ -17,18 +17,6 @@ The unit will monitor the conditions of various parameter considerations and tak
 
 
 
-SOIL MOISTURE SENSOR
-
-    * Tolerance= ± 0.2 V
-         
-    * SOIL MOISTURE SENSOR READINGS
-
-| Soil Condition | Transducer Optimum Range |
-| ------------- | ------------- |
-| Soil is dry  | 0V  |
-| Optimum level of soil moisture  | 1.9- 3.5V  |
-| Slurry soil | >3.5V |
-
 
 
 LIGHT SENSOR
