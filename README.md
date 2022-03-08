@@ -8,7 +8,7 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/3e387cdc35d3432991052d1175f5db88)](https://www.codacy.com/gh/kashyapshah26/M2_EmbSys_/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kashyapshah26/M2_EmbSys_&amp;utm_campaign=Badge_Grade)
 
 # Code Quality
-https://api.codiga.io/project/31679/score/svg
+![quality grade]https://api.codiga.io/project/31679/score/svg
 
 # Code Grade
 https://api.codiga.io/project/31679/status/svg
