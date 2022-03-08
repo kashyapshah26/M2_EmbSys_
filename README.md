@@ -11,4 +11,4 @@
 ![quality grade]https://api.codiga.io/project/31679/score/svg
 
 # Code Grade
-https://api.codiga.io/project/31679/status/svg
+![quality grade]https://api.codiga.io/project/31679/status/svg
