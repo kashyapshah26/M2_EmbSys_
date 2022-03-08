@@ -14,6 +14,3 @@
 # Code Grade
 ![quality grade](https://api.codiga.io/project/31679/status/svg)
 
-
-
-[![CircleCI](https://circleci.com/gh/kashyapshah26/M2_EmbSys_/tree/main.svg?style=svg)](https://circleci.com/gh/kashyapshah26/M2_EmbSys_/tree/main)
