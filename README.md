@@ -3,9 +3,6 @@
 * Case Study and project for Embedded project
 
 
-[![Cppcheck](https://github.com/kashyapshah26/M2_EmbSys_/actions/workflows/static-check.yml/badge.svg)](https://github.com/kashyapshah26/M2_EmbSys_/actions/workflows/static-check.yml)
-
-
 
 # Codecy
 
