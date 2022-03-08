@@ -4,3 +4,4 @@ GREEN HOUSE MONITORING AND CONTROL
 
 
 * It communicates with the various sensor modules in real-time in order to control the light, aeration and drainage process efficiently inside a greenhouse by actuating a cooler, fogger, dripper and lights respectively according to the necessary condition of the crops
+
